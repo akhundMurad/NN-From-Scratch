@@ -1,7 +1,6 @@
-## PV021 project -- Deep Learning from Scratch
+## Deep Learning from Scratch
 
-This project is an implementation of the neural network
-developed in the scope of the PV021 course (Masaryk University).
+This project is an implementation of the neural network.
 
 ### TASK
   - Implement a neural network in a low-level programming language
